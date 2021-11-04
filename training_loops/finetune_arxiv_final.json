@@ -1,0 +1,10 @@
+{
+  "f":"finetune_gttf",
+  "curve":[[7, 1e-3], [8, 1e-4]],
+  "flags": {
+    "l2reg": 1e-5,
+    "layers": 2,
+    "val_as_train": true,
+    "scale_y": 10
+  }
+}
